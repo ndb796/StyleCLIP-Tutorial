@@ -27,3 +27,16 @@
 <img width="70%" src="https://user-images.githubusercontent.com/16822641/113475177-f58fe280-94ae-11eb-893b-d8d1ba7ef5a3.png"/>
 
 * Google Colab tutorial source code
+
+#### <b>Latent Mapper</b>
+
+* After trained per text prompt (10 hours), the mapper manipulates attributes in one forward pass.
+
+<img width="90%" src="https://user-images.githubusercontent.com/16822641/113475391-64ba0680-94b0-11eb-8183-d2824c8cd674.png"/>
+
+#### <b>Global Directions</b>
+
+* Find global directions in a StyleGAN's style space <b>S</b>.
+* After finding a global direction, we can apply this global direction to any latent vector <b>s</b>.
+
+<img width="80%" src="https://user-images.githubusercontent.com/16822641/113475348-05f48d00-94b0-11eb-916b-85ffbffb3b9e.png"/>
