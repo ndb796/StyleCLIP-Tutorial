@@ -6,7 +6,7 @@
 ### <b>What is CLIP?</b>
 
 * CLIP jointly trains an image encoder and a text encoder using a large dataset.
-* An image and text are encoded into similar embeddings if they have similar semantic meanings.
+* The cosine similarity between an image and text feature is high if they have similar semantic meanings.
 
 <img width="90%" src="https://user-images.githubusercontent.com/16822641/113474963-ed837300-94ad-11eb-98af-632f4ce4feb9.png"/>
 
