@@ -18,7 +18,7 @@
 
 #### <b>1. Latent Optimization</b>
 
-* Google Colab tutorial source code
+* <b>[Google Colab tutorial source code](/StyleCLIP_Latent_Optimization.ipynb)</b>
 * This ia a simple approach for leveraging CLIP to guide image manipulation.
 
 <img width="90%" src="https://user-images.githubusercontent.com/16822641/113475055-5e2a8f80-94ae-11eb-8298-2ee1d36e251e.png"/>
