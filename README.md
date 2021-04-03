@@ -2,6 +2,14 @@
 
 > This repository provides an unofficial tutorial for StyleCLIP.
 * The original paper and source codes can be found in [this link](https://github.com/orpatashnik/StyleCLIP).
+* Face manipulation example
+    * Text prompt: <b>"A really sad face"</b>
+
+<img width="70%" src="https://user-images.githubusercontent.com/16822641/113485037-95b52e00-94e6-11eb-9569-80445020ae23.png"/>
+
+* Face manipulation animation
+
+<img width="30%" src="https://user-images.githubusercontent.com/16822641/113485737-204b5c80-94ea-11eb-8676-dbec4f7ab17a.gif"/>
 
 ### <b>What is CLIP?</b>
 
