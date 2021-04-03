@@ -13,8 +13,8 @@
 ### <b>StyleCLIP Methods</b>
 
 * The StyleCLIP provides three methods based on various previous studies.
-* <b>[Lecture note](/StyleCLIP.pdf)</b> by Dongbin Na
-* <b>[Tutorial video]</b> by Dongbin Na
+* Tutorial: <b>[Lecture note](/StyleCLIP.pdf)</b>
+* Tutorial: <b>[Video]</b>
 
 #### <b>Latent Optimization</b>
 
