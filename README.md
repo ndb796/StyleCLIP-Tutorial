@@ -22,7 +22,7 @@
 
 * The StyleCLIP provides three methods based on various previous studies.
 * Tutorial: <b>[Lecture note](/StyleCLIP.pdf)</b>
-* Tutorial: <b>[Video]</b>
+* Tutorial: <b>[Video: Paper explained](https://www.youtube.com/watch?v=8K6CieG-pYE)</b>
 
 #### <b>1. Latent Optimization</b>
 
